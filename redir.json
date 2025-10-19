@@ -40,8 +40,6 @@
         "Lmage_url=",
         "Open=",
         "callback=",
-        "cgi-bin/redirect.cgi",
-        "cgi-bin/redirect.cgi?",
         "checkout=",
         "checkout_url=",
         "continue=",
@@ -94,4 +92,5 @@
         "window="
         
     ]
+
 }
